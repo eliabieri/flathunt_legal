@@ -1,2 +1,3 @@
 # flathunt_legal
-legal documents of the flathunt app
+Legal documents of the flathunt app
+For support, contact me at app-support@eliabieri.com
