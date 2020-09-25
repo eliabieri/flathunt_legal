@@ -1,2 +1,2 @@
-# flahunt_legal
+# flathunt_legal
 legal documents of the flathunt app
